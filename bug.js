@@ -1,0 +1,1 @@
+This error typically occurs when you are using Expo Go and have made changes to your project that require a restart of the Expo Go app or a full rebuild of your project.  The error message itself isn't very descriptive, often just indicating a general failure to connect or a timeout.  The underlying cause is often subtle.
